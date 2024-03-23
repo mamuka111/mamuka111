@@ -4,6 +4,13 @@ Welcome to my GitHub profile! I'm passionate about coding . Here you'll find a v
 
 ## About Me
 
+
+🛠️ Technologies & Tools
+Front-End: HTML5 CSS3 JavaScript React Tailwind CSS Next.js Material-UI
+Back-End: Node.js Express Next.js
+Databases: MongoDB PostgreSQL MySQL
+DevOps: GitHub Actions AWS
+
 - 🌱 I'm currently learning front-end development using react.
 - 📫 How to reach me ✉️mavsajanishvili61@gmail.com.
 
